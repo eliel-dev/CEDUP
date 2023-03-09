@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e65c5729-34d8-4284-a49d-09d3e1b6f654" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CEDUP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/ForWhile/ForWhile.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/ForWhile/src/ExemploWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/ForWhile/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e65c5729-34d8-4284-a49d-09d3e1b6f654" name="Changes" comment="Teste" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Mk93Yenr2YjqNdtak3lDLBYofR" />
   <component name="ProjectLevelVcsManager">
@@ -38,6 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "full.screen.before.presentation.mode": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-18"
   }
 }]]></component>
@@ -50,6 +47,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678300516189</updated>
     </task>
+    <task id="LOCAL-00001" summary="Teste">
+      <created>1678301089530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301089530</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste" />
   </component>
 </project>
