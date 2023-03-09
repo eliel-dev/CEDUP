@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e65c5729-34d8-4284-a49d-09d3e1b6f654" name="Changes" comment="Teste" />
+    <list default="true" id="e65c5729-34d8-4284-a49d-09d3e1b6f654" name="Changes" comment="Teste">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/ExemploWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Main.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,9 +46,24 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
-    "jdk.selected.JAVA_MODULE": "openjdk-18"
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "last_opened_file_path": "C:/Users/Dev/Documents/GitHub/CEDUP"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio4" />
+      <module name="ForWhile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercicio4" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
