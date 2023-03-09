@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e65c5729-34d8-4284-a49d-09d3e1b6f654" name="Changes" comment="Teste">
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/ExemploWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Teste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Main.class" beforeDir="false" />
-    </list>
+    <list default="true" id="e65c5729-34d8-4284-a49d-09d3e1b6f654" name="Changes" comment="Teste" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
