@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e65c5729-34d8-4284-a49d-09d3e1b6f654" name="Changes" comment="Teste">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/ExemploWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +22,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2Mk93Yenr2YjqNdtak3lDLBYofR" />
   <component name="ProjectLevelVcsManager">
@@ -47,10 +42,20 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-18",
-    "last_opened_file_path": "C:/Users/Dev/Documents/GitHub/CEDUP"
+    "last_opened_file_path": "C:/Users/Dev/Documents/GitHub/CEDUP",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Exercicio1">
+    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio4" />
       <module name="ForWhile" />
@@ -60,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio1" />
         <item itemvalue="Application.Exercicio4" />
       </list>
     </recent_temporary>
@@ -82,6 +88,17 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Teste" />
