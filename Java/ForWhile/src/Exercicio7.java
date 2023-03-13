@@ -14,17 +14,39 @@ public class Exercicio7 {
     public static void main(String[] args) {
         Scanner leTeclado = new Scanner(System.in);
 
-        System.out.println(
-            "Calculadora CEDUP\n" +
-            "1 - Somar\n" +
-            "2 - Subtrair\n" +
-            "3 - Sair"
-        );
+        while (true){
+            System.out.println(
+                    "Calculadora CEDUP\n" +
+                     "1 - Somar\n" +
+                     "2 - Subtrair\n" +
+                     "3 - Sair"
+            );
+            int opcao = leTeclado.nextInt();
 
-        int opcao = leTeclado.nextInt();
-        while (opcao != 3){
-            System.out.println("ola mundo");
-            break;
+            switch (opcao){
+                case 1:
+                    System.out.println("Digite o primeiro numero: ");
+                    double num1 = leTeclado.nextDouble();
+                    System.out.println("Digite o segundo número: ");
+                    double num2 = leTeclado.nextDouble();
+                    System.out.println("O resultado da soma é: " +(num1 + num2));
+                    break;
+
+                case 2:
+                    System.out.println("Digite o primeiro numero: ");
+                    double num3 = leTeclado.nextDouble();
+                    System.out.println("Digite o segundo número: ");
+                    double num4 = leTeclado.nextDouble();
+                    System.out.println("O resultado da soma é: " +(num3 - num4));
+                    break;
+
+                case 3:
+                    System.out.println("Fui, valeu!");
+                    return;
+
+                default:
+                    System.out.println("Opção Inválida!");
+            }
         }
 
 
