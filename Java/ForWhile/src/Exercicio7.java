@@ -45,12 +45,9 @@ public class Exercicio7 {
                     return;
 
                 default:
-                    System.out.println("Opção Inválida!");
+                    System.out.println("Opção inválida. Por favor, escolha uma opção válida entre 1 e 3.");
             }
+            System.out.println();
         }
-
-
-
-
     }
 }
