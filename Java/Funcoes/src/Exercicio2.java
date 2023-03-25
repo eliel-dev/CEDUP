@@ -16,13 +16,10 @@
 import java.util.Scanner;
 
 public class Exercicio2 {
-
     private static final String usuario_valido ="Eliel";
     private static final String senha_valida ="Teste";
 
     public static void main(String[] args) {
-        Scanner leTeclado = new Scanner(System.in);
-
         imprimirMenu ();
 
     }
@@ -59,6 +56,7 @@ public class Exercicio2 {
         }
     }
 
+    // Função que Verifica se a senha e usuario digtado são validos
     public static boolean loginAdmin(String user, String senha) {
         if (user.equalsIgnoreCase(usuario_valido) && senha.equalsIgnoreCase(senha_valida)) {
             return true;

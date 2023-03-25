@@ -23,26 +23,27 @@ public class Exercicio25 {
 
     public static void main(String[] args) {
         imprimirMenu ();
+
     }
 
     public static void imprimirMenu (){
-        Console console = System.console();
+        Scanner leTeclado = new Scanner(System.in);
 
         System.out.println("Sistema CEDUP");
         System.out.println("1 - Entrar");
         System.out.println("2 - Sair");
 
-        int opcao = Integer.parseInt(console.readLine());
+        int opcao = leTeclado.nextInt();
 
         switch (opcao) {
             case 1:
                 System.out.println("Informe seu usuario:");
-                String user = console.readLine();
+                String user = leTeclado.next();
 
-                char[] senhaArray = console.readPassword("Informe a senha: ");
-                String senha = new String(senhaArray);
+                System.out.println("Informa a senha: ");
+                String senha = leTeclado.next();
 
-                if (loginAdmin(user, senha)) {
+                if (loginAdmin(user,senha)) {
                     System.out.println("Bem-vindo");
                 } else {
                     System.out.println("Login inválido, tente novamente");
@@ -57,12 +58,12 @@ public class Exercicio25 {
         }
     }
 
+    // Função que Verifica se a senha e usuario digtado são validos
     public static boolean loginAdmin(String user, String senha) {
         if (user.equalsIgnoreCase(usuario_valido) && senha.equalsIgnoreCase(senha_valida)) {
             return true;
         } else {
             return false;
         }
-
     }
 }

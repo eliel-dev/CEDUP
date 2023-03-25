@@ -8,10 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/Funcoes/src/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Funcoes/src/Exercicio2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/Funcoes/src/Exercicio25.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Funcoes/src/Exercicio25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Funcoes/src/Exercicio2part2.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Funcoes/Exercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Funcoes/Exercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Funcoes/Exercicio25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Funcoes/Exercicio2part2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +62,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Exercicio25">
     <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio25" />
+      <module name="Funcoes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio25" />
         <item itemvalue="Application.Exercicio1" />
         <item itemvalue="Application.Exercicio4" />
       </list>
