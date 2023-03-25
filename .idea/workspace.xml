@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e65c5729-34d8-4284-a49d-09d3e1b6f654" name="Changes" comment="Teste" />
+    <list default="true" id="e65c5729-34d8-4284-a49d-09d3e1b6f654" name="Changes" comment="Teste">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Funcoes/src/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Funcoes/src/Exercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Funcoes/src/Exercicio25.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Funcoes/src/Exercicio25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Funcoes/src/Exercicio2part2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Funcoes/Exercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Funcoes/Exercicio2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Funcoes/Exercicio25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Funcoes/Exercicio2part2.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +65,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio1">
+  <component name="RunManager">
     <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio1" />
       <method v="2">

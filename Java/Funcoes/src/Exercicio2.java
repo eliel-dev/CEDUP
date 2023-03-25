@@ -17,6 +17,9 @@ import java.util.Scanner;
 
 public class Exercicio2 {
 
+    private static final String usuario_valido ="Eliel";
+    private static final String senha_valida ="Teste";
+
     public static void main(String[] args) {
         Scanner leTeclado = new Scanner(System.in);
 
@@ -35,7 +38,13 @@ public class Exercicio2 {
 
         switch (opcao) {
             case 1:
-                if (loginAdmin()) {
+                System.out.println("Informe seu usuario:");
+                String user = leTeclado.next();
+
+                System.out.println("Informa a senha: ");
+                String senha = leTeclado.next();
+
+                if (loginAdmin(user,senha)) {
                     System.out.println("Bem-vindo");
                 } else {
                     System.out.println("Login inválido, tente novamente");
@@ -50,22 +59,11 @@ public class Exercicio2 {
         }
     }
 
-    public static String txtRetornaTxt(String pergunta) {
-        System.out.println(pergunta);
-        Scanner leTeclado = new Scanner(System.in);
-
-        return leTeclado.next();
-    }
-
-    public static boolean loginAdmin() {
-        String user = txtRetornaTxt("Informe seu usuario: ");
-        String senha = txtRetornaTxt("Informa a senha: ");
-
-        if (user.equalsIgnoreCase("Eliel") && senha.equalsIgnoreCase("teste")) {
+    public static boolean loginAdmin(String user, String senha) {
+        if (user.equalsIgnoreCase(usuario_valido) && senha.equalsIgnoreCase(senha_valida)) {
             return true;
         } else {
             return false;
         }
-
     }
 }
