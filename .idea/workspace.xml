@@ -5,9 +5,178 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e65c5729-34d8-4284-a49d-09d3e1b6f654" name="Changes" comment="Teste">
-      <change afterPath="$PROJECT_DIR$/Java/Funcoes.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Funcoes/src/Exercicio25.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/SISTEMAS OPERACIONAIS/BAT/Calculadora.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SISTEMAS OPERACIONAIS/BAT/IMC.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SISTEMAS OPERACIONAIS/BAT/Menu.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SISTEMAS OPERACIONAIS/BAT/Novos.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SISTEMAS OPERACIONAIS/BAT/Sistema Media.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SISTEMAS OPERACIONAIS/BAT/Sistema Media2 + chcp 1252.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SISTEMAS OPERACIONAIS/BAT/TEste.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SISTEMAS OPERACIONAIS/BAT/novo 1.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/.idea/CEDUP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/ForWhile/ForWhile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/ForWhile/src/ExemploWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/ForWhile/src/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/ForWhile/src/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/ForWhile/src/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/ForWhile/src/Exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/ForWhile/src/Exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/ForWhile/src/Exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/ForWhile/src/Exercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/ForWhile/src/Exercicio7Up1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/ForWhile/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Funcoes/Funcoes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Funcoes/src/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Funcoes/src/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Funcoes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Ola mundo/Ola mundo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Ola mundo/src/Exercicio05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Ola mundo/src/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Ola mundo/src/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Ola mundo/src/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Ola mundo/src/Exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Ola mundo/src/Exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/Ola mundo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Java/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/01 - 10 invertido.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/01 - De 10 a 0 v2(1).por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/01 - De 10 a 0 v2.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/01- De 10 a 0.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/01-De 10 a 0.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/02 - Soma e media.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/02- Tabuada (3)(1).por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/02- Tabuada (3)(2).por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/02- Tabuada (3)(3).por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/02- Tabuada (3).por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/03 - Maior e menor.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/03- Media (1).por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/03- Media.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/ABC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/ABC.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Altura+-(1).por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Altura+-.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Apresentação sem título.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Apresentação sobre linguagens de programação.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Asterisco.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Aula sem prof (1).por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Aula sem prof.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Condominios/Condomínions 2.2.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/De 10 a 0.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/ELIEL OLIVEIRA RODRIGUES - 6ª atividade - Estrutura de repetição para.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Estrelas.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/IMC(1).por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/IMC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/IMC.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/IMG_20220926_191953.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/IMG_20220926_191959.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/IMG_20220926_192006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Impares entre 100 e 200.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Intervalos.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Media.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Negativos e positivos.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Olá mundo.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Olá nome.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Peso Ideal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Peso ideal.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Soma.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Tabuada do 9 (1) (1).por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Tabuada do 9 (1).por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Tabuada do 9(1).por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Tabuada do 9(2).por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Tabuada do 9.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Troca.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Untitled CAIO.mdj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Vetor - 10 invertido.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Vetor - Maior e menor.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Vetor - Soma e media.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Vetores (parte 2) - Ex1.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Vetores (parte 2) - Ex2.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/Vetores (parte 2) - Ex3.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/Portugol/conta até -1 e média.por" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/Array/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/ForWhile/ExemploWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/ForWhile/Exercicio1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/ForWhile/Exercicio2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/ForWhile/Exercicio3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/ForWhile/Exercicio4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/ForWhile/Exercicio5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/ForWhile/Exercicio6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/ForWhile/Exercicio7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/ForWhile/Exercicio7Up1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/ForWhile/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/Funcoes/Exercicio1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/Funcoes/Exercicio2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/Funcoes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/Java/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/Ola mundo/Exercicio05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/Ola mundo/Exercicio1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/Ola mundo/Exercicio2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/Ola mundo/Exercicio3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/Ola mundo/Exercicio4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/Ola mundo/Exercicio6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TÉCNICAS DE PROGRAMAÇÃO/out/production/Ola mundo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CEDUP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Array/Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Array/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ForWhile/ForWhile.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ForWhile/src/ExemploWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ForWhile/src/Exercicio7Up1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ForWhile/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Funcoes/Funcoes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Funcoes/src/Exercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Funcoes/src/Exercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Funcoes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Ola mundo/Ola mundo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Ola mundo/src/Exercicio05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Ola mundo/src/Exercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Ola mundo/src/Exercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Ola mundo/src/Exercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Ola mundo/src/Exercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Ola mundo/src/Exercicio6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Ola mundo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/ExemploWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Exercicio7Up1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForWhile/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Funcoes/Exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Funcoes/Exercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Funcoes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ola mundo/Exercicio05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ola mundo/Exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ola mundo/Exercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ola mundo/Exercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ola mundo/Exercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ola mundo/Exercicio6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ola mundo/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
