@@ -25,15 +25,15 @@ public class Exercicio4 {
         int somaIdades = 0;
         double mediaIdades;
 
+
+        //Loop que altera String idade para Int idade_Int
         for (int i = 0; i < pessoas.length; i++) {
             int idade_Int = Integer.parseInt(pessoas[i][1]);
             somaIdades += idade_Int;
         }
 
+        //Faz a media e exibe ela na tela
         mediaIdades = (double) somaIdades / pessoas.length;
-
         System.out.println("A média das idades é: " + mediaIdades);
-
     }
 }
-
