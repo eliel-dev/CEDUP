@@ -83,7 +83,7 @@ public class Main {
 
 
 
-    //Verifica vencedor analisando cada linha, coluna e digonais
+    //Verifica vencedor analisando cada linha, coluna e diagonais
     public static boolean verificarVencedor(int[][] tabu, int jogador) {
         // Verificar linhas
         for (int i = 0; i < 3; i++) {
@@ -107,6 +107,4 @@ public class Main {
         }
         return false;
     }
-
-
 }
