@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Jogo_da_Velha {
     private static int linha;
     private static int coluna;
     static int[][] tabu = new int[3][3];
@@ -53,8 +53,8 @@ public class Main {
 
             //Desenha tabuleiro trocando 1 por X e 2 por O, deixando campos não preenchidos com "-"
             System.out.println("Tabuleiro: ");
-            for (int i = 0; i < 3; i++) {
-                for (int j = 0; j < 3; j++) {
+            for (int i = 0; i < tabu.length; i++) {
+                for (int j = 0; j < tabu.length; j++) {
                     if (tabu[i][j] == 1) {
                         System.out.print(" X ");
                     } else if (tabu[i][j] == 2) {
@@ -82,17 +82,20 @@ public class Main {
     }
 
 
+    public static void exibe_tabuleiro() {
 
-    //Verifica vencedor analisando cada linha, coluna e diagonais
+    }
+
+    //Verifica vencedor analisando cada linha, coluna e diagonais / Recebe por parametro a matriz e o jogador a ser analisado
     public static boolean verificarVencedor(int[][] tabu, int jogador) {
-        // Verificar linhas
-        for (int i = 0; i < 3; i++) {
+        // For para verificar cada linha
+        for (int i = 0; i < tabu.length; i++) {
             if (tabu[i][0] != 0 && tabu[i][0] == tabu[i][1] && tabu[i][1] == tabu[i][2]) {
                 return true;
             }
         }
-        // Verificar colunas
-        for (int i = 0; i < 3; i++) {
+        // For para verificar cada coluna
+        for (int i = 0; i < tabu.length; i++) {
             if (tabu[0][i] != 0 && tabu[0][i] == tabu[1][i] && tabu[1][i] == tabu[2][i]) {
                 return true;
             }
