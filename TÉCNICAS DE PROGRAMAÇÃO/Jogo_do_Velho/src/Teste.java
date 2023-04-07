@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 public class Teste {
-    private static int linha;
-    private static int coluna;
     static int[][] tabu = new int[3][3];
 
     public static void main(String[] args) {
@@ -16,13 +14,7 @@ public class Teste {
         int vezDoJogador = 0;
         int jogadas = 0;
 
-        System.out.println("Bem-vindo ao jogo da velha, desenvolvido por Eliel e Carlos");
-        System.out.println("Informe o nome dos jogadores");
-        System.out.println("Jogador 1 (X): ");
-        jogadores[0] = entrada.nextLine();
-        System.out.println("Jogador 2 (O): ");
-        jogadores[1] = entrada.nextLine();
-        System.out.println();
+        inicia_jogo(jogadores);
 
         //"Melhorar", loop de jogo enquanto ainda não ganhou ou deu empate
         while (true){
@@ -51,27 +43,13 @@ public class Teste {
             //Incrementa num de jogadas, onde o limite vai ser até 9
             jogadas++;
 
-            //Desenha tabuleiro trocando 1 por X e 2 por O, deixando campos não preenchidos com "-"
-            System.out.println("Tabuleiro: ");
-            for (int i = 0; i < tabu.length; i++) {
-                for (int j = 0; j < tabu.length; j++) {
-                    if (tabu[i][j] == 1) {
-                        System.out.print(" X ");
-                    } else if (tabu[i][j] == 2) {
-                        System.out.print(" O ");
-                    } else {
-                        System.out.print(" - ");
-                    }
-                }
-                System.out.println();
-            }
-            System.out.println();
+            exibe_tabuleiro(tabu);
+
 
             if (verificarVencedor(tabu, vezDoJogador + 1)) {
                 System.out.println(jogadores[vezDoJogador] + " ganhou!");
                 break;
             }
-
             if (jogadas == 9) {
                 System.out.println("Empate!");
                 break;
@@ -82,9 +60,39 @@ public class Teste {
     }
 
 
-    public static void exibe_tabuleiro() {
+    public static String inicia_jogo(Scanner entrada, String[] jogadores) {
+        System.out.println("Bem-vindo ao jogo da velha, desenvolvido por Eliel e Carlos");
+        System.out.println("Informe o nome dos jogadores");
+        System.out.println("Jogador 1 (X): ");
+        jogadores[0] = entrada.nextLine();
+        System.out.println("Jogador 2 (O): ");
+        jogadores[1] = entrada.nextLine();
+        System.out.println();
+        exibe_tabuleiro(tabu);
 
+        return jogadores[0];
     }
+
+
+    //Desenha tabuleiro trocando 1 por X e 2 por O, deixando campos não preenchidos com "-"
+    public static void exibe_tabuleiro(int[][] tabu) {
+        System.out.println("Tabuleiro: ");
+        for (int i = 0; i < tabu.length; i++) {
+            for (int j = 0; j < tabu.length; j++) {
+                if (tabu[i][j] == 1) {
+                    System.out.print(" X ");
+                } else if (tabu[i][j] == 2) {
+                    System.out.print(" O ");
+                } else {
+                    System.out.print(" - ");
+                }
+            }
+            System.out.println();
+        }
+        System.out.println();
+    }
+
+
 
     //Verifica vencedor analisando cada linha, coluna e diagonais / Recebe por parametro a matriz e o jogador a ser analisado
     public static boolean verificarVencedor(int[][] tabu, int jogador) {
